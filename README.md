@@ -24,9 +24,17 @@ This project analyzes student data from the Walsoft Computer Institute to determ
 ## 📈 Visualizations
 This analysis generates the following key assets:
 1. `correlation_heatmap.png` - Overall relationships between variables.
+
+   ![walsoft screenshot](correlation_heatmap.png)
 2. `feature_importance_ranking.png` - Random Forest model results showing top drivers.
+
+   ![walsoft screenshot](feature_importance_ranking.png)
 3. `education_boxplot.png` - Performance distribution by education level.
+
+   ![walsoft screenshot](education_boxplot.png)
 4. `entry_vs_python_scatter.png` - Correlation between admission scores and final grades.
+
+   ![walsoft screenshot](entry_vs_python_scatter.png)
 
 ## 💡 Strategic Recommendations (The "One Intervention")
 **Implement a 'Minimum Study Hour' Gamification System.**
